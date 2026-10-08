@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Datos de los cuatro juegos principales de la saga Batman: Arkham.
+     Cada juego tiene título, año de lanzamiento, nota de la crítica y estudio. -->
+
+<saga propietario="IIIZialexIII">
+
+  <juego id="J01">
+    <titulo>Batman: Arkham Asylum</titulo>
+    <estudio>Rocksteady Studios</estudio>
+    <lanzamiento anio="2009"/>
+    <nota escala="sobre-10">9.1</nota>
+    <destacado/>
+  </juego>
+
+  <juego id="J02">
+    <titulo>Batman: Arkham City</titulo>
+    <estudio>Rocksteady Studios</estudio>
+    <lanzamiento anio="2011"/>
+    <nota escala="sobre-10">9.4</nota>
+    <destacado/>
+  </juego>
+
+  <juego id="J03">
+    <titulo>Batman: Arkham Origins</titulo>
+    <estudio>WB Games Montreal</estudio>
+    <lanzamiento anio="2013"/>
+    <nota escala="sobre-10">7.4</nota>
+  </juego>
+
+  <juego id="J04">
+    <titulo>Batman: Arkham Knight</titulo>
+    <estudio>Rocksteady Studios</estudio>
+    <lanzamiento anio="2015"/>
+    <nota escala="sobre-10">8.7</nota>
+    <dlc nombre="Batgirl: A Matter of Family"/>
+  </juego>
+
+</saga>
